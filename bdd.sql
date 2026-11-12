@@ -1,0 +1,3 @@
+-- Ecrire votre code SQL dans ce fichier
+-- code SQL de structure
+-- Ajouter vos categories
